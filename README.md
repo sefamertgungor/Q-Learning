@@ -1,3 +1,3 @@
 # Q-Learning
 
-Proje hakkında detaylı bilgi için : [Proje Raporu](https://github.com/sefamertgungor/Flutter-mobilSorgular/blob/main/Rapor.pdf)
+Proje hakkında detaylı bilgi için : [Proje Raporu](https://github.com/sefamertgungor/Q-Learning/blob/main/Q-Learning.pdf)
